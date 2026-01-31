@@ -1,0 +1,15 @@
+# Build directories
+bin/
+obj/
+x64/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.aps
+*.opendb
+*.pdb
+*.ilk
+*.log
