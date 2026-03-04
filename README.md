@@ -2,6 +2,10 @@
 
 A console-based Chess application built in C++ for Windows, featuring a multi-threaded rendering engine and full chess logic.
 
+<img width="560" height="475" alt="Screenshot 2026-03-04 134327" src="https://github.com/user-attachments/assets/dc471345-2a33-4f5a-ae6c-5aee58466be0" />
+
+<img width="630" height="475" alt="image" src="https://github.com/user-attachments/assets/8e984958-ee08-4e15-9329-ca346c940281" />
+
 ## Overview
 
 This project implements a complete Chess game playable within the Windows command prompt. It utilizes Unicode characters for rendering the board and pieces, providing a clean and intuitive interface.
